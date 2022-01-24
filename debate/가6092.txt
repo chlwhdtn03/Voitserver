@@ -1,0 +1,1 @@
+{"id":"가6092","title":"오늘 저녁은?","ticket_agree":5,"ticket_disagree":0}
